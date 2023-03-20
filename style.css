@@ -1,0 +1,47 @@
+/* Header */
+h1 {
+  color: #f44336;
+}
+
+/* Input form */
+label {
+  display: block;
+  margin-bottom: 10px;
+  color: #4CAF50;
+}
+
+input[type="text"] {
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  font-size: 16px;
+}
+
+button[type="submit"] {
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+button[type="submit"]:hover {
+  background-color: #3e8e41;
+}
+
+/* Result container */
+#result-container {
+  margin-top: 20px;
+  font-size: 18px;
+  color: #2196F3;
+}
+footer {
+    background-color: #f5f5f5;
+    padding: 10px;
+    text-align: center;
+    font-size: 14px;
+    color: #413f3f;
+  }
+  
